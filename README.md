@@ -1,4 +1,4 @@
-# Spam Classification and Explanation Chatbot
+# Spam Classification and Explaination Chatbot
 
 This project implements a two-step email spam detection system that combines fast classification with explainable reasoning. The goal is not just to identify whether an email is spam, but to also provide a natural language explanation grounded in historical email data.
 
